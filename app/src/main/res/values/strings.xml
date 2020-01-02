@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EPF fund calculator</string>
+    <string name="textViewBirthDate">Birth Date: </string>
+    <string name="textViewAge">Age: </string>
+    <string name="textViewCurrentSavings">Current Savings: </string>
+    <string name="textViewExcessSavings">Excess Savings: </string>
+    <string name="btnGet">Get</string>
+    <string name="textViewSavings">Savings:</string>
+    <string name="btnCalculate">Calculate</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
